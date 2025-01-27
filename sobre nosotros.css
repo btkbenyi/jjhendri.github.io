@@ -1,0 +1,82 @@
+body{
+    background-image: url(sobre\ nosotros.webp);
+}
+
+.cm{
+    background: rgb(129, 163, 242);
+    margin-left: 100px;
+   margin-right: 10px;
+}
+
+li {
+    list-style: none;
+    margin-right: 100px;
+    
+}
+
+
+.quesos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.cm{
+    display: flex;
+}
+body{
+    font-family: "Pintura húmeda Rubik";
+}
+li{
+    color: rgb(3, 10, 18);
+}
+
+a{
+    font-size: 14px;
+    background: rgb(119, 121, 240) ;
+    padding: 10px 30px 20px 30px;
+}
+
+.im{ height: 100%;    
+width:200px;
+
+
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.contenedor {
+    display: flex;            
+    justify-content: center;  
+    gap: 90px;                
+}
+
+
+.imagen-con-texto {
+    text-align: center;       
+}
+
+
+.imagen {
+    width: 150px;             
+    height: auto;            
+    display: block;          
+    margin: 0 auto;         
+}
+
+
+.texto {
+    font-size: 1em;
+    color: #0b94cf;
+    margin-top: 20px;         
+}
+
+.NB{
+    color: rgb(22, 191, 217);
+}

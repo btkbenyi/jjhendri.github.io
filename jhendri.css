@@ -1,0 +1,44 @@
+
+.zx{
+height: 70px;
+width: 100px;
+}
+
+.cm{
+    background: rgb(129, 163, 242);
+    margin-left: 500px;
+   margin-right: 50px;
+}
+
+li {
+    list-style: none;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+
+
+.quesos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+.cm{
+    display: flex;
+}
+body{
+    font-family: "Pintura húmeda Rubik";
+}
+
+li{
+    color: rgb(10, 12, 14);
+}
+
+a img {
+    border: none; 
+    width: 100px; 
+    height: auto; 
+  }
+  
+  a:hover img {
+    opacity: 0.8; 
+  }
